@@ -1,4 +1,4 @@
-### Hi there! I'm Andy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hi there! I'm Andy
 
 I am a student at the University of Pennsylvania in the Jerome Fisher Program in Management & Technology, pursuing a BSE in Computer Science and a BS in Economics from The Wharton School. My interests include process optimization, UI/UX design, user research, and neural networks.
 
